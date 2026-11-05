@@ -11,32 +11,32 @@ class CustomerController extends Controller
         $customers = [
             [
                 'id' => 1,
-                'name' => 'Juan Dela Cruz',
-                'email' => 'juan@gmail.com',
+                'name' => 'Michaella Abegail',
+                'email' => 'michaella@gmail.com',
                 'phone' => '09171234567'
             ],
             [
                 'id' => 2,
-                'name' => 'Maria Santos',
-                'email' => 'maria@gmail.com',
+                'name' => 'Sarah Dela Cruz',
+                'email' => 'sarah@gmail.com',
                 'phone' => '09181234567'
             ],
             [
                 'id' => 3,
-                'name' => 'Pedro Reyes',
-                'email' => 'pedro@gmail.com',
+                'name' => 'Emille Reyes',
+                'email' => 'emille@gmail.com',
                 'phone' => '09191234567'
             ],
             [
                 'id' => 4,
-                'name' => 'Ana Garcia',
-                'email' => 'ana@gmail.com',
+                'name' => 'Rich Brent',
+                'email' => 'rich@gmail.com',
                 'phone' => '09201234567'
             ],
             [
                 'id' => 5,
-                'name' => 'Mark Lopez',
-                'email' => 'mark@gmail.com',
+                'name' => 'Camille Parks',
+                'email' => 'camille@gmail.com',
                 'phone' => '09211234567'
             ],
         ];

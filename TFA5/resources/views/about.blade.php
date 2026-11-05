@@ -16,6 +16,5 @@
 
     <h2>About Us</h2>
     <p>This Point of Sale system helps manage customer accounts and user accounts.</p>
-    <p>It was developed using Laravel as part of the Web System Technologies activity.</p>
 </body>
 </html>

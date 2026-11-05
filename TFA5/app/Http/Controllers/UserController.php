@@ -11,32 +11,32 @@ class UserController extends Controller
         $users = [
             [
                 'id' => 1,
-                'name' => 'Admin User',
-                'email' => 'admin@gmail.com',
+                'name' => 'Francine Agalabia',
+                'email' => 'agalabia.f@gmail.com',
                 'role' => 'Administrator'
             ],
             [
                 'id' => 2,
-                'name' => 'Cashier One',
-                'email' => 'cashier1@gmail.com',
+                'name' => 'Mercy Evangelista',
+                'email' => 'evangelista.m@gmail.com',
                 'role' => 'Cashier'
             ],
             [
                 'id' => 3,
-                'name' => 'Cashier Two',
-                'email' => 'cashier2@gmail.com',
+                'name' => 'Chloe Chan',
+                'email' => 'chan.c@gmail.com',
                 'role' => 'Cashier'
             ],
             [
                 'id' => 4,
-                'name' => 'Manager User',
-                'email' => 'manager@gmail.com',
+                'name' => 'Jazmine Elly',
+                'email' => 'elly.j@gmail.com',
                 'role' => 'Manager'
             ],
             [
                 'id' => 5,
-                'name' => 'Staff User',
-                'email' => 'staff@gmail.com',
+                'name' => 'Beata Maxine',
+                'email' => 'maxine.b@gmail.com',
                 'role' => 'Staff'
             ],
         ];
