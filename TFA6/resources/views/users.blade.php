@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>POS - User Accounts</title>
+    <link rel="stylesheet" href="{{ asset('css/style.css') }}">
 </head>
 <body>
     <h1>Point of Sale System</h1>
