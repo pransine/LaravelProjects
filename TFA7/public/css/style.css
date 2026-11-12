@@ -1,0 +1,71 @@
+
+/* General Page Styling */
+body {
+    margin: 0;
+    padding: 30px;
+    background-color: #FFF9FC;
+    color: #514653;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+/* Main Heading */
+h1 {
+    color: #795B78;
+    font-size: 34px;
+    margin-bottom: 10px;
+}
+
+/* Page Headings */
+h2 {
+    color: #8B6F89;
+    margin-top: 25px;
+}
+
+/* Navigation Links */
+a {
+    display: inline-block;
+    color: #765B83;
+    background-color: #F0E8F6;
+    text-decoration: none;
+    padding: 7px 13px;
+    margin: 4px 2px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: #E4D5EF;
+    color: #5F456B;
+}
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    background-color: #FFFFFF;
+    border: 1px solid #E8DCE7;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-top: 15px;
+}
+
+th {
+    background-color: #F3E4EE;
+    color: #684F65;
+    padding: 13px;
+    border: 1px solid #E8DCE7;
+}
+
+td {
+    padding: 12px;
+    border: 1px solid #E8DCE7;
+}
+
+tr:nth-child(even) {
+    background-color: #FCF5FA;
+}
+
+/* Paragraphs */
+p {
+    color: #625765;
+}
